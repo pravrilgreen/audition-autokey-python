@@ -8,6 +8,11 @@ A Python-based automation tool for **Audition VTC**, using **OpenCV** to detect 
 > 🔁 Real-time control with hotkeys.
 
 ---
+## 🎥 Demo
+
+![AutoKey Demo](demo.gif)
+
+---
 
 ## 🚀 Features
 
@@ -42,6 +47,8 @@ audition-autokey-python/
 │   └── ... (other buttons)
 │
 ├── debug/                # Optional: for logs/screenshots
+├── README.md
+├── demo.gif
 ├── main.py               # Main script
 └── requirements.txt      # Python dependencies
 ```
